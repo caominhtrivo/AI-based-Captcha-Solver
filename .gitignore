@@ -1,0 +1,16 @@
+# Dataset folder
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+models/*.h5
+models/*.ckpt
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PyCharm settings
+.idea/
